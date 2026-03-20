@@ -1,4 +1,4 @@
-# 🇨🇴 ¿En qué ciudad de Colombia hay más empleos de datos? (2026)
+# ¿En qué ciudad de Colombia hay más empleos de datos? (2026)
 
 ![Dashboard](dashboard_colombia_2026.png)
 
